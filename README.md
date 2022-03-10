@@ -1,5 +1,5 @@
 # Personal VPN
-## Shadowsocks+V2Ray-plugin
+## SSHermit-plugin
 
 Click the button below to deploy to Heroku
 
